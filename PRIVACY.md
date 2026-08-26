@@ -1,12 +1,12 @@
-# Lumina Privacy Policy
+# LightWeave Privacy Policy
 
 Last updated: 23 August 2026
 
-Lumina (“the app”) is a lighting companion for Philips Hue. You can speak or type lighting commands and change lights in your home.
+LightWeave (“the app”) is a lighting companion for Philips Hue. You can speak or type lighting commands and change lights in your home.
 
-## What Lumina collects
+## What LightWeave collects
 
-Lumina does not create an account. It does not run ads or analytics SDKs.
+LightWeave does not create an account. It does not run ads or analytics SDKs.
 
 On this device the app stores:
 
@@ -43,16 +43,16 @@ You can deny either permission. Without the microphone you can still type. Witho
 - Apple Speech Recognition
 - Signify / Philips Hue (Bridge and Remote API)
 
-Lumina does not sell personal data and does not send lighting commands to xAI.
+LightWeave does not sell personal data and does not send lighting commands to xAI.
 
 ## Safety
 
-You can report a reply, pause on-device voice, or turn it off in Settings. Email support from the app. Lumina is a lighting controller, not a social network.
+You can report a reply, pause on-device voice, or turn it off in Settings. Email support from the app. LightWeave is a lighting controller, not a social network.
 
 ## Subscriptions
 
-Voice Unlimited (`app.lumina.hue.voice.monthly`) is an auto-renewable subscription billed through Apple for Home Tips and lighting schedules. It renews each month unless you cancel at least 24 hours before the period ends. Manage or cancel in iOS Settings → Apple ID → Subscriptions. Pro (`app.lumina.hue.pro`) is a one-time purchase. Restore purchases is in Lumina Settings. Named voice control is included at no extra charge.
+Voice Unlimited (`com.anthonytaves.lightweave.voice.monthly`) is an auto-renewable subscription billed through Apple for Home Tips and lighting schedules. It renews each month unless you cancel at least 24 hours before the period ends. Manage or cancel in iOS Settings → Apple ID → Subscriptions. Pro (`com.anthonytaves.lightweave.pro`) is a one-time purchase. Restore purchases is in LightWeave Settings. Named voice control is included at no extra charge.
 
 ## Contact
 
-Email [support@lumina.app](mailto:support@lumina.app). Public policy and support: [github.com/PatternWeave/lumina-legal](https://github.com/PatternWeave/lumina-legal).
+Email [aataves@icloud.com](mailto:aataves@icloud.com). Public policy and support: [github.com/PatternWeave/lightweave-legal](https://github.com/PatternWeave/lightweave-legal).
